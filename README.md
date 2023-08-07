@@ -1,4 +1,4 @@
-This project was a guided project from Coursera https://www.coursera.org/projects/build-full-stack-app-using-react-express?
+https://coursera.org/verify/M6NAT5H3XUTT
 
 ![Build a Full Stack App using React and Express](https://user-images.githubusercontent.com/36702039/209717749-9160d678-1e8c-4df3-b658-be4958d80f48.png)
 
